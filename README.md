@@ -1,6 +1,6 @@
 # James Song 🚀🤖
 
-I'm James Song, a CS + math major at the University of 〽️ichigan. I am passionate about deep learning, and I am particularly interested in autoregressive models, natural language and image generation 📝🖼️. I'm also interested in transformers and the theory behind how they learn representations 🔄🧠.
+I'm James Song, a CS + math major at the University of 〽️ichigan. I am passionate about deep learning, and I am particularly interested in autoregressive models, including natural language generation and image generation 📝🖼️. Recently, I've been also interested in transformers and how they learn representations 🔄🧠.
 
 ## Weekly Challenge
 I reproduce a recently published research paper every week, starting Sep 2024. 

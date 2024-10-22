@@ -5,9 +5,11 @@ I'm James Song, a CS + math major at the University of 〽️ichigan. I am passi
 ## Weekly Challenge
 I reproduce a recently published research paper biweekly, starting Sep 2024. 
 
-September 7: Linear Mode Connectivity and the Lottery Ticket Hypothesis [ [paper](https://arxiv.org/abs/1912.05671), [repo](https://github.com/james-hx-song/lmc-transformers) ]
+Linear Mode Connectivity and the Lottery Ticket Hypothesis [ [paper](https://arxiv.org/abs/1912.05671), [repo](https://github.com/james-hx-song/lmc-transformers) ]
 
-October 20: Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.11239), [repo](https://github.com/james-hx-song/DDPM)]
+Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.11239), [repo](https://github.com/james-hx-song/DDPM)]
+
+Diffusion Transformers [[paper](https://arxiv.org/pdf/2410.05258), [repo](https://github.com/james-hx-song/DiffXformer)]
 
 ## Contact
 📧 Email: shxjames@umich.edu

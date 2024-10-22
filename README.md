@@ -9,7 +9,7 @@ Linear Mode Connectivity and the Lottery Ticket Hypothesis [ [paper](https://arx
 
 Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.11239), [repo](https://github.com/james-hx-song/DDPM)]
 
-Diffusion Transformers [[paper](https://arxiv.org/pdf/2410.05258), [repo](https://github.com/james-hx-song/DiffXformer)]
+Differential Transformers [[paper](https://arxiv.org/pdf/2410.05258), [repo](https://github.com/james-hx-song/DiffXformer)]
 
 ## Contact
 📧 Email: shxjames@umich.edu

@@ -11,7 +11,6 @@ Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2006.112
 
 Differential Transformers [[paper](https://arxiv.org/pdf/2410.05258), [repo](https://github.com/james-hx-song/DiffXformer)]
 
-Mamba [[Paper](https://arxiv.org/abs/2312.00752), [repo](https://github.com/james-hx-song/minMamba)]
 
 ## Contact
 📧 Email: shxjames@umich.edu
